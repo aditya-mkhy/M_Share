@@ -1,5 +1,31 @@
 # M_Share
+A lightweight, local-network file sharing app with a clean GUI.  
+Run the server on one machine, the client on another, and share files instantly across LAN.
 
+> 🚀 Built with Python • Simple • Fast • Secure (local use)
+
+---
+
+## 🧩 Badges
+
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-orange)
+
+---
+
+## ✨ Features
+
+- 📁 **Send & Receive** files seamlessly over the same network.
+- 🖥️ **Simple GUI** for quick access (separate Send/Receive windows).
+- 🔍 **Peer Search** tools to detect devices automatically.
+- 💬 **Popups/Notifications** for real-time transfer updates.
+- ⚡ **Lightweight** — no extra dependencies beyond Python.
+- 🔒 **Local Network Security** — never sends data over the internet.
+
+---
 
 &nbsp; &nbsp;   &nbsp;  
 
