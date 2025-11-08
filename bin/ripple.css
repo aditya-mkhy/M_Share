@@ -1,0 +1,84 @@
+html{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #060606;
+}
+
+.step {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  height: 88px;
+  width: 88px;
+  border: 1px solid #000000;
+  border-radius: 100%;
+  background: #000000;
+  box-shadow: 0 0 20px 0 rgba(161, 156, 156, 0.25);
+}
+.step span {
+  position: relative;
+  font-size: 72px;
+  top: 5px;
+  left: -5px;
+}
+.step::after {
+  opacity: 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  height: 100%;
+  width: 100%;
+  background: #0460cc;
+  border-radius: 100%;
+  -webkit-animation-name: ripple;
+          animation-name: ripple;
+  -webkit-animation-duration: 13s;
+          animation-duration: 13s;
+  -webkit-animation-delay: 0s;
+          animation-delay: 0s;
+  -webkit-animation-iteration-count: infinite;
+          animation-iteration-count: infinite;
+  -webkit-animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
+          animation-timing-function: cubic-bezier(0.65, 0, 0.34, 1);
+  z-index: -1;
+}
+
+/* @-webkit-keyframes ripple {
+  from {
+    opacity: 1;
+    transform: scale3d(0.75, 0.75, 1);
+  }
+  to {
+    opacity: 0;
+    transform: scale3d(2, 2, 1);
+  }
+} */
+
+@keyframes ripple {
+  from {
+    opacity: 1;
+    transform: scale3d(0.75, 0.75, 1);
+  }
+  to {
+    opacity: 0;
+    transform: scale3d(4, 4, 1);
+  }
+}
