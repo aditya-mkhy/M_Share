@@ -18,10 +18,6 @@
 &nbsp; &nbsp;   &nbsp;  
 
 
-![Screenshot (43)](https://user-images.githubusercontent.com/88531382/129391232-aa44bfe2-d216-4c41-931c-3f7b22a05add.png)
-&nbsp; &nbsp;   &nbsp;  
-
-
 <img width="1203" height="665" alt="Screenshot 2025-11-08 113057" src="https://github.com/user-attachments/assets/8f9c4802-75b7-4146-a9e0-70bb401ad427" />
 &nbsp; &nbsp;   &nbsp;  
 
