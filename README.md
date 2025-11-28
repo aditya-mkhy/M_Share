@@ -2,11 +2,11 @@
 A lightweight, local-network file sharing app with a clean GUI.  
 Run the server on one machine, the client on another, and share files instantly across LAN.
 
-> 🚀 Built with Python • Simple • Fast • Secure (local use)
+> Built with Python • Simple • Fast • Secure (local use)
 
 ---
 
-## 🧩 Badges
+## Badges
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
@@ -16,16 +16,15 @@ Run the server on one machine, the client on another, and share files instantly 
 
 ---
 
-## ✨ Features
+## Features
 
-- 📁 **Send & Receive** files seamlessly over the same network.
-- 🖥️ **Simple GUI** for quick access (separate Send/Receive windows).
-- 🔍 **Peer Search** tools to detect devices automatically.
-- 💬 **Popups/Notifications** for real-time transfer updates.
-- ⚡ **Lightweight** — no extra dependencies beyond Python.
-- 🔒 **Local Network Security** — never sends data over the internet.
-
----
+-  **Send & Receive** files seamlessly over the same network.
+-  **Simple GUI** for quick access (separate Send/Receive windows).
+-  **Peer Search** tools to detect devices automatically.
+-  **Popups/Notifications** for real-time transfer updates.
+-  **Lightweight** — no extra dependencies beyond Python.
+-  **Local Network Security** — never sends data over the internet.
+<br>
 
 &nbsp; &nbsp;   &nbsp;  
 
